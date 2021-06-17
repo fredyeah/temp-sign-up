@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#23285A;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#FFFFFF;stroke:#23285A;stroke-width:3;}
+	.st4{fill:none;stroke:#82F0D7;stroke-width:3;}
+	.st5{display:inline;}
+</style>
+<g id="play" class="st0">
+	<path id="Polígono_1_3_" class="st1" d="M36,24.5L16.6,35.9V13.1L36,24.5z"/>
+</g>
+<g id="check-mark-checked">
+	<g id="Rectángulo_57">
+		<rect x="6.6" y="7.3" class="st2" width="36.7" height="35.3"/>
+		<rect x="8.8" y="9.5" class="st3" width="32.5" height="31.1"/>
+	</g>
+	<path id="Trazado_69" class="st4" d="M15.2,25.3l5.7,6.1l13.2-14.1"/>
+</g>
+<g id="check-mark-unchecked" class="st0">
+	<g id="Rectángulo_57_1_" class="st5">
+		<rect x="6.6" y="7.3" class="st2" width="36.7" height="35.3"/>
+		<rect x="8.8" y="9.5" class="st3" width="32.5" height="31.1"/>
+	</g>
+</g>
+<g id="pause" class="st0">
+	<rect id="Rectángulo_27" x="14.8" y="12.3" class="st1" width="8.9" height="25.5"/>
+	<rect id="Rectángulo_28" x="26.3" y="12.3" class="st1" width="8.9" height="25.5"/>
+</g>
+<g id="forward" class="st0">
+	<path id="Polígono_1_1_" class="st1" d="M47.2,24.5L27.8,35.9V13.1L47.2,24.5z"/>
+	<path id="Polígono_1_2_" class="st1" d="M25.5,24.5L6.1,35.9V13.1L25.5,24.5z"/>
+</g>
+<g id="back" class="st0">
+	<path id="Polígono_1_5_" class="st1" d="M3,24.5l19.4-11.4v22.8L3,24.5z"/>
+	<path id="Polígono_1_4_" class="st1" d="M24.7,24.5l19.4-11.4v22.8L24.7,24.5z"/>
+</g>
+<g id="big-icons" class="st0">
+	<rect id="Rectángulo_78" x="7" y="7" class="st1" width="36" height="36"/>
+</g>
+<g id="medium-icons" class="st0">
+	<rect id="Rectángulo_68" x="8" y="6.9" class="st1" width="16.3" height="16.3"/>
+	<rect id="Rectángulo_76" x="26.1" y="6.9" class="st1" width="16.3" height="16.3"/>
+	<rect id="Rectángulo_74" x="26.1" y="24.9" class="st1" width="16.3" height="18.1"/>
+	<rect id="Rectángulo_69" x="8" y="24.9" class="st1" width="16.3" height="18.1"/>
+</g>
+<g id="small-icons" class="st0">
+	<rect id="Rectángulo_59" x="7" y="7" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_60" x="19.6" y="7" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_61" x="32.2" y="7" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_62" x="32.2" y="19.6" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_63" x="32.2" y="32.2" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_64" x="19.6" y="19.6" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_65" x="19.6" y="32.2" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_66" x="7" y="19.6" class="st1" width="10.8" height="10.8"/>
+	<rect id="Rectángulo_67" x="7" y="32.2" class="st1" width="10.8" height="10.8"/>
+</g>
+</svg>
